@@ -19,3 +19,7 @@ The article also introduces two kinds of technical debt that can emerge from the
 I found the idea of Cognitive Debt especially meaningful. When AI generated code runs without errors, it is tempting to accept it and move on. However, if we do not understand how the code works, it becomes much harder to fix problems, debug, or make changes later.
 
 This also relates to the article I shared in my own repository, where Google used AI to generate interactive learning pages for teachers. Even in that project, every page was tested and reviewed by a teacher before it was released. Hence, both articles suggest that while AI can help us write code faster, developers still need to read and understand it carefully and correctly.     
+
+## Additional Comment - Christopher Park (Joomen10)
+
+I thought the idea of Cognitive Debt was really interesting because it shows one of the problems with depending too much on AI when coding. Even if the code works, it can still become a problem later if the developer does not understand how it works. I think AI is most useful when it helps us work faster, but we still take the time to read the code and understand the decisions behind it.
